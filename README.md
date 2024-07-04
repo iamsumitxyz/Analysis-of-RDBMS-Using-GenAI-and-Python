@@ -1,1 +1,2 @@
-# Analysis-of-RDBMS-Using-GenAI-and-Python
+In modern data-driven environments, the ability to efficiently retrieve and analyze data from relational database management systems (RDMS) is crucial. Traditionally, SQL has been the primary tool for querying databases.
+However, advancements in Python programming and generative AI (GenAI) offer new paradigms for data interaction. This paper presents a method to use Python for creating dynamic classes that interact with RDMS tables, fetching data into Pandas DataFrames. These classes are equipped with metadata that describes the table structure and business context, facilitating insightful data analysis through natural language queries.
